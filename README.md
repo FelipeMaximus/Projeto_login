@@ -15,4 +15,4 @@ Pagina de login muito atraente usando os padroes de UX/UI, sendo totalmente resp
 
 ## Deploy on Vercel
 
-[Click aqui](https://page-login-mocha.vercel.app/) para ver a live preview deste projeto.
+[Click aqui](https://felipemaximus.github.io/Projeto_login/) para ver a live preview deste projeto.
