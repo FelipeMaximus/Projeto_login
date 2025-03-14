@@ -5,7 +5,7 @@
 ![Imagem](demo.png)
 
 # Página de Login
-Pagina de login muito atraente usando os padroes de UX/UI, sendo totalmente responsivo.
+Pagina de login muito atraente usando os padroes de UX/UI, sendo 100% responsiva.
 
 # Projeto Front-end
 
